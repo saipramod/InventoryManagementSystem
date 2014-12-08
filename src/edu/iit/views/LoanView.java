@@ -6,8 +6,6 @@ import edu.iit.model.User;
 
 public class LoanView {
 	
-	public void loanView(Book book,User user){
-		LoanController.loanBook(book, user);
-	}
+	
 
 }
