@@ -1,4 +1,4 @@
-package edu.iit.util;
+package edu.iit.controller;
 
 import edu.iit.model.Section;
 
