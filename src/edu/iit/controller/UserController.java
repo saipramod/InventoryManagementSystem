@@ -6,13 +6,10 @@ import edu.iit.model.User;
 
 public class UserController {
 	
-	public static String determineUserRole(User user){
-		return "";
+	public User login(){
+		
+		return new User();
 	}
-	public static boolean authorizeUser(User user){
-		return true;
-	}
-
 	public static HashMap<User,Integer> getAuthorsRating(){
 		
 		return new HashMap();

@@ -4,7 +4,7 @@ import edu.iit.model.Section;
 
 public class SectionService {
 	
-	public static int countBooksPerSection(Section section){
+	public static int getBooksBySection(Section section){
 		return 0;
 	}
 

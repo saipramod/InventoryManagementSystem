@@ -5,7 +5,7 @@ import edu.iit.model.User;
 
 public class LoanController {
 	
-	public static void loanBook(Book book,User user){
+	public static void loanABook(Book book,User user){
 		
 	}
 
